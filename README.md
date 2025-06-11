@@ -55,3 +55,18 @@ Ce node ComfyUI permet d’extraire toutes les images trouvées dans divers type
 3.  **Sorties du node :**
     *   `first_saved_image_preview` (IMAGE) : Un tenseur image (BHWC) de la première image qui a été extraite et sauvegardée avec succès. Peut être connecté à un nœud "Preview Image". Si aucune image n'est sauvegardée, un placeholder noir est retourné.
     *   `output_folder_path` (STRING) : Le chemin complet du dossier où les images extraites ont été sauvegardées. Vous pouvez l'utiliser avec des nodes qui manipulent des chemins de fichiers ou pour votre information.
+<div align="center">
+
+<h3>🌟 <strong>Show Your Support</strong></h3>
+
+<p>If this project helped you, please consider giving it a ⭐ on GitHub!</p>
+
+<p><strong>Made with ❤️ for the ComfyUI community</strong></p>
+
+<p><strong>by Orion4D</strong></p>
+
+<a href="https://ko-fi.com/orion4d">
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
+</div>
