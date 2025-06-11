@@ -24,7 +24,7 @@ Ce node ComfyUI permet d’extraire toutes les images trouvées dans divers type
     Si vous gérez ce projet avec Git, clonez-le dans votre dossier `ComfyUI/custom_nodes/` :
     ```bash
     cd ComfyUI/custom_nodes/
-    git clone 
+    git clone https://github.com/orion4d/ComfyUI_extract_imag.git
     ```
 2.  **Installer les dépendances :**
     Ouvrez une invite de commande (ou un terminal) et naviguez jusqu'au dossier de votre node :
