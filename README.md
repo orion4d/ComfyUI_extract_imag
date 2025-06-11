@@ -31,7 +31,7 @@ Ce node ComfyUI permet d’extraire toutes les images trouvées dans divers type
 2.  **Installer les dépendances :**
     Ouvrez une invite de commande (ou un terminal) et naviguez jusqu'au dossier de votre node :
     ```bash
-    cd ComfyUI/custom_nodes/ComfyUI-ExtractAndSaveImages/
+    cd ComfyUI/custom_nodes/ComfyUI_extract_imag/
     ```
     Installez les dépendances nécessaires en utilisant le fichier `requirements.txt` :
     ```bash
