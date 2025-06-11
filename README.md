@@ -2,6 +2,8 @@
 
 Ce node ComfyUI permet d’extraire toutes les images trouvées dans divers types de documents et de les sauvegarder sur le disque. Il offre également un aperçu de la première image extraite.
 
+![image](https://github.com/user-attachments/assets/7aae3ef1-7999-406d-8d23-453be55cf841)
+
 **Formats de documents supportés :**
 -   PDF (.pdf)
 -   Document Word (.docx)
