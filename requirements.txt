@@ -1,0 +1,8 @@
+pymupdf
+python-docx
+beautifulsoup4
+lxml
+markdown
+Pillow
+numpy
+torch
